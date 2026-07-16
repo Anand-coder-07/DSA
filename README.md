@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Anand-coder-07/DSA/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Anand-coder-07/DSA/tree/master/0485-max-consecutive-ones) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anand-coder-07/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anand-coder-07/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anand-coder-07/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
