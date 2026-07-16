@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Anand-coder-07/DSA/tree/master/2427-number-of-common-factors) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/Anand-coder-07/DSA/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
