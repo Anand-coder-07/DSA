@@ -72,12 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anand-coder-07/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/Anand-coder-07/DSA/tree/master/3110-score-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/Anand-coder-07/DSA/tree/master/3794-reverse-string-prefix) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Anand-coder-07/DSA/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anand-coder-07/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Anand-coder-07/DSA/tree/master/0283-move-zeroes) |
+| [3794-reverse-string-prefix](https://github.com/Anand-coder-07/DSA/tree/master/3794-reverse-string-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
