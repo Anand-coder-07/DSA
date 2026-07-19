@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anand-coder-07/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anand-coder-07/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anand-coder-07/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3668-restore-finishing-order](https://github.com/Anand-coder-07/DSA/tree/master/3668-restore-finishing-order) |
 | [3895-count-digit-appearances](https://github.com/Anand-coder-07/DSA/tree/master/3895-count-digit-appearances) |
 ## Prefix Sum
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anand-coder-07/DSA/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Anand-coder-07/DSA/tree/master/0268-missing-number) |
+| [3668-restore-finishing-order](https://github.com/Anand-coder-07/DSA/tree/master/3668-restore-finishing-order) |
 ## Sorting
 |  |
 | ------- |
