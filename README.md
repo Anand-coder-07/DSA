@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/Anand-coder-07/DSA/tree/master/0771-jewels-and-stones) |
 | [1678-goal-parser-interpretation](https://github.com/Anand-coder-07/DSA/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anand-coder-07/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/Anand-coder-07/DSA/tree/master/3110-score-of-a-string) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anand-coder-07/DSA/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Anand-coder-07/DSA/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/Anand-coder-07/DSA/tree/master/0771-jewels-and-stones) |
 | [3668-restore-finishing-order](https://github.com/Anand-coder-07/DSA/tree/master/3668-restore-finishing-order) |
 ## Sorting
 |  |
