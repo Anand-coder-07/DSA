@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anand-coder-07/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Anand-coder-07/DSA/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Anand-coder-07/DSA/tree/master/0319-bulb-switcher) |
+| [1137-n-th-tribonacci-number](https://github.com/Anand-coder-07/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anand-coder-07/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/Anand-coder-07/DSA/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anand-coder-07/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anand-coder-07/DSA/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Anand-coder-07/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Anand-coder-07/DSA/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Enumeration
 |  |
@@ -138,4 +140,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anand-coder-07/DSA/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Anand-coder-07/DSA/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
