@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Anand-coder-07/DSA/tree/master/0058-length-of-last-word) |
 | [0771-jewels-and-stones](https://github.com/Anand-coder-07/DSA/tree/master/0771-jewels-and-stones) |
 | [1678-goal-parser-interpretation](https://github.com/Anand-coder-07/DSA/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anand-coder-07/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
