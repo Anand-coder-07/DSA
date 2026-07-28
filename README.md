@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Anand-coder-07/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Anand-coder-07/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Anand-coder-07/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Anand-coder-07/DSA/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Anand-coder-07/DSA/tree/master/0319-bulb-switcher) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Anand-coder-07/DSA/tree/master/0070-climbing-stairs) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Anand-coder-07/DSA/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Enumeration
 |  |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anand-coder-07/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anand-coder-07/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
