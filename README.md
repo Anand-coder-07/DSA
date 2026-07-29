@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anand-coder-07/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anand-coder-07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Anand-coder-07/DSA/tree/master/2119-a-number-after-a-double-reversal) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Anand-coder-07/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2427-number-of-common-factors](https://github.com/Anand-coder-07/DSA/tree/master/2427-number-of-common-factors) |
 | [2485-find-the-pivot-integer](https://github.com/Anand-coder-07/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Anand-coder-07/DSA/tree/master/2769-find-the-maximum-achievable-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/Anand-coder-07/DSA/tree/master/1323-maximum-69-number) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Anand-coder-07/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Dynamic Programming
 |  |
 | ------- |
