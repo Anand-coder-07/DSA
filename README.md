@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anand-coder-07/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Anand-coder-07/DSA/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Anand-coder-07/DSA/tree/master/0319-bulb-switcher) |
+| [0412-fizz-buzz](https://github.com/Anand-coder-07/DSA/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/Anand-coder-07/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anand-coder-07/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/Anand-coder-07/DSA/tree/master/1323-maximum-69-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Anand-coder-07/DSA/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anand-coder-07/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Anand-coder-07/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Array
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Anand-coder-07/DSA/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/Anand-coder-07/DSA/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/Anand-coder-07/DSA/tree/master/0771-jewels-and-stones) |
 | [1678-goal-parser-interpretation](https://github.com/Anand-coder-07/DSA/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anand-coder-07/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
