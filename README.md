@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Anand-coder-07/DSA/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/Anand-coder-07/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anand-coder-07/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Anand-coder-07/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Array
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Anand-coder-07/DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Anand-coder-07/DSA/tree/master/0704-binary-search) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anand-coder-07/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1929-concatenation-of-array](https://github.com/Anand-coder-07/DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anand-coder-07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anand-coder-07/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anand-coder-07/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
