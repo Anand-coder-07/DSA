@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Anand-coder-07/DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anand-coder-07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anand-coder-07/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anand-coder-07/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anand-coder-07/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anand-coder-07/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3668-restore-finishing-order](https://github.com/Anand-coder-07/DSA/tree/master/3668-restore-finishing-order) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anand-coder-07/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Anand-coder-07/DSA/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Anand-coder-07/DSA/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anand-coder-07/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anand-coder-07/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Anand-coder-07/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anand-coder-07/DSA/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Anand-coder-07/DSA/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anand-coder-07/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
