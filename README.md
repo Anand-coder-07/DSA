@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anand-coder-07/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anand-coder-07/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3668-restore-finishing-order](https://github.com/Anand-coder-07/DSA/tree/master/3668-restore-finishing-order) |
+| [3866-first-unique-even-element](https://github.com/Anand-coder-07/DSA/tree/master/3866-first-unique-even-element) |
 | [3895-count-digit-appearances](https://github.com/Anand-coder-07/DSA/tree/master/3895-count-digit-appearances) |
 ## Prefix Sum
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Anand-coder-07/DSA/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/Anand-coder-07/DSA/tree/master/1748-sum-of-unique-elements) |
 | [3668-restore-finishing-order](https://github.com/Anand-coder-07/DSA/tree/master/3668-restore-finishing-order) |
+| [3866-first-unique-even-element](https://github.com/Anand-coder-07/DSA/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Anand-coder-07/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anand-coder-07/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3866-first-unique-even-element](https://github.com/Anand-coder-07/DSA/tree/master/3866-first-unique-even-element) |
 ## Memoization
 |  |
 | ------- |
