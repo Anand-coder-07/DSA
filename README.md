@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Anand-coder-07/DSA/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/Anand-coder-07/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Anand-coder-07/DSA/tree/master/0412-fizz-buzz) |
+| [0877-stone-game](https://github.com/Anand-coder-07/DSA/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Anand-coder-07/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anand-coder-07/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/Anand-coder-07/DSA/tree/master/1323-maximum-69-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Anand-coder-07/DSA/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/Anand-coder-07/DSA/tree/master/0877-stone-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Anand-coder-07/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Simulation
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Anand-coder-07/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Anand-coder-07/DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Anand-coder-07/DSA/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/Anand-coder-07/DSA/tree/master/0877-stone-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anand-coder-07/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/Anand-coder-07/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/Anand-coder-07/DSA/tree/master/1929-concatenation-of-array) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anand-coder-07/DSA/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/Anand-coder-07/DSA/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Anand-coder-07/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Anand-coder-07/DSA/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Enumeration
