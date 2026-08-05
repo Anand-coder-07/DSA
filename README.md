@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Anand-coder-07/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anand-coder-07/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Anand-coder-07/DSA/tree/master/0169-majority-element) |
+| [0260-single-number-iii](https://github.com/Anand-coder-07/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Anand-coder-07/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anand-coder-07/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Anand-coder-07/DSA/tree/master/0485-max-consecutive-ones) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Anand-coder-07/DSA/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/Anand-coder-07/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Anand-coder-07/DSA/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anand-coder-07/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
