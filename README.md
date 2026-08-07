@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Anand-coder-07/DSA/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/Anand-coder-07/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Anand-coder-07/DSA/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/Anand-coder-07/DSA/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/Anand-coder-07/DSA/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Anand-coder-07/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anand-coder-07/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
