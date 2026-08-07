@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Anand-coder-07/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anand-coder-07/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Anand-coder-07/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Anand-coder-07/DSA/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/Anand-coder-07/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Anand-coder-07/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anand-coder-07/DSA/tree/master/0283-move-zeroes) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anand-coder-07/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Anand-coder-07/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Anand-coder-07/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Anand-coder-07/DSA/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/Anand-coder-07/DSA/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/Anand-coder-07/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -170,12 +172,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Anand-coder-07/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anand-coder-07/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Anand-coder-07/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Anand-coder-07/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Anand-coder-07/DSA/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anand-coder-07/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anand-coder-07/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Anand-coder-07/DSA/tree/master/0229-majority-element-ii) |
 | [1748-sum-of-unique-elements](https://github.com/Anand-coder-07/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anand-coder-07/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3866-first-unique-even-element](https://github.com/Anand-coder-07/DSA/tree/master/3866-first-unique-even-element) |
@@ -200,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Anand-coder-07/DSA/tree/master/0048-rotate-image) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Anand-coder-07/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
