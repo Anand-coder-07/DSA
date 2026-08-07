@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anand-coder-07/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Anand-coder-07/DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Anand-coder-07/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Anand-coder-07/DSA/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Anand-coder-07/DSA/tree/master/0035-search-insert-position) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anand-coder-07/DSA/tree/master/0011-container-with-most-water) |
 | [1323-maximum-69-number](https://github.com/Anand-coder-07/DSA/tree/master/1323-maximum-69-number) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Anand-coder-07/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Dynamic Programming
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anand-coder-07/DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Anand-coder-07/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Anand-coder-07/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Anand-coder-07/DSA/tree/master/0075-sort-colors) |
