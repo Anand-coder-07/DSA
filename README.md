@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Anand-coder-07/DSA/tree/master/0412-fizz-buzz) |
+| [0832-flipping-an-image](https://github.com/Anand-coder-07/DSA/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/Anand-coder-07/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anand-coder-07/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anand-coder-07/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Anand-coder-07/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Anand-coder-07/DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Anand-coder-07/DSA/tree/master/0704-binary-search) |
+| [0832-flipping-an-image](https://github.com/Anand-coder-07/DSA/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/Anand-coder-07/DSA/tree/master/0877-stone-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anand-coder-07/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Anand-coder-07/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Anand-coder-07/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anand-coder-07/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Anand-coder-07/DSA/tree/master/0283-move-zeroes) |
+| [0832-flipping-an-image](https://github.com/Anand-coder-07/DSA/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anand-coder-07/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3794-reverse-string-prefix](https://github.com/Anand-coder-07/DSA/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Anand-coder-07/DSA/tree/master/3884-first-matching-character-from-both-ends) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Anand-coder-07/DSA/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/Anand-coder-07/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Anand-coder-07/DSA/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/Anand-coder-07/DSA/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anand-coder-07/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Anand-coder-07/DSA/tree/master/0048-rotate-image) |
+| [0832-flipping-an-image](https://github.com/Anand-coder-07/DSA/tree/master/0832-flipping-an-image) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
